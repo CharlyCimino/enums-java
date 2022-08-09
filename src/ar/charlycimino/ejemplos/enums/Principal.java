@@ -1,4 +1,4 @@
-package muestraenums;
+package ar.charlycimino.ejemplos.enums;
 
 /**
  *

@@ -1,4 +1,4 @@
-package muestraenums;
+package ar.charlycimino.ejemplos.enums.metodosutiles;
 
 /**
  *
@@ -7,5 +7,10 @@ package muestraenums;
  * GitHub: https://github.com/CharlyCimino
  */
 public enum NivelEstudio {
-    SIN_ESTUDIOS, PRIMARIO, SECUNDARIO, TERCIARIO, UNIVERSITARIO, POSGRADO;
+    SIN_ESTUDIOS,
+    PRIMARIO,
+    SECUNDARIO,
+    TERCIARIO,
+    UNIVERSITARIO,
+    POSGRADO;
 }
